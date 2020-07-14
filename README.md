@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm currently working at Laboratory for Social and Cognitive Informatics ([SCILA](https://scila.hse.ru/en/)), Higher School of Economics (Saint Petersburg, Russia).
+I'm currently working at Laboratory for Social and Cognitive Informatics ([SCILA](https://scila.hse.ru/en/)), Higher School of Economics (Saint Petersburg, Russia). I enjoy reading books on technology and science, learning new programming languages and frameworks.
 
 #### Scientific projects
 
