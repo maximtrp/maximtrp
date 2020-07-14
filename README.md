@@ -2,10 +2,18 @@
 
 I'm currently working at Laboratory for Social and Cognitive Informatics ([SCILA](https://scila.hse.ru/en/)), Higher School of Economics (Saint Petersburg, Russia).
 
-#### Science projects
+#### Scientific projects
 
-* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs): Pairwise Multiple Comparisons (Post Hoc) Tests in Python
-* [mchmm](https://github.com/maximtrp/mchmm): Markov Chains and Hidden Markov Models in Python
+* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs): Pairwise Multiple Comparisons (Post Hoc) Tests
+* [mchmm](https://github.com/maximtrp/mchmm): Markov Chains and Hidden Markov Models
+* [topic-modeling-pipelines](https://github.com/maximtrp/topic-modeling-pipelines): Topic Modeling Pipelines
+
+#### CLI tools
+
+* [mufi](https://github.com/maximtrp/mufi): Simple Music Finder for command-line
+* [lastfm-cli-scrobbler](https://github.com/maximtrp/lastfm-cli-scrobbler): Last.fm CLI Scrobbler
+* [ranger-cmus](https://github.com/maximtrp/ranger-cmus): Ranger Plugin for Integration with Cmus Audio Player
+* [ranger-archives](https://github.com/maximtrp/ranger-archives): Ranger Plugin for Creating and Extracting Archives
 
 #### Arduino projects
 
