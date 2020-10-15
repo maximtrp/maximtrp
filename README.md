@@ -23,5 +23,5 @@ I'm currently working at Laboratory for Social and Cognitive Informatics ([SCILA
 
 #### Web
 
-* [tab](https://github.com/maximtrp/randpaper): Start Page Generator :bookmark_tabs:
+* [tab](https://github.com/maximtrp/tab): Start Page Generator :bookmark_tabs:
 * [randpaper](https://github.com/maximtrp/randpaper): Random Photo from Pexels :city_sunset:
