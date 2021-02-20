@@ -2,26 +2,12 @@
 
 I'm currently working at Laboratory for Social and Cognitive Informatics ([SCILA](https://scila.hse.ru/en/)), Higher School of Economics (Saint Petersburg, Russia). I enjoy reading books on technology and science, learning new programming languages and frameworks.
 
-#### Science
+**Science**: [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) (multiple pairwise comparisons tests), [mchmm](https://github.com/maximtrp/mchmm) (Markov chains and hidden Markov models), [topic-modeling-pipelines](https://github.com/maximtrp/topic-modeling-pipelines) (topic modeling pipelines), [btm](https://github.com/maximtrp/btm) (biterm topic models).
 
-* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs): Pairwise Multiple Comparisons (Post Hoc) Tests
-* [mchmm](https://github.com/maximtrp/mchmm): Markov Chains and Hidden Markov Models
-* [topic-modeling-pipelines](https://github.com/maximtrp/topic-modeling-pipelines): Topic Modeling Pipelines
+**Linux WMs**: [i3blocks-blocklets](https://github.com/maximtrp/i3blocks-blocklets) (useful blocklets for i3blocks), [awesome-wm-widgets](https://github.com/maximtrp/awesome-wm-widgets) (widgets for Awesome WM).
 
-#### CLI tools
+**CLI tools**: [mufi](https://github.com/maximtrp/mufi) (simple music finder for command-line), [lastfm-cli-scrobbler](https://github.com/maximtrp/lastfm-cli-scrobbler) (last.fm cli scrobbler), [ranger-cmus](https://github.com/maximtrp/ranger-cmus) (ranger plugin for integration with cmus audio player), [ranger-archives](https://github.com/maximtrp/ranger-archives) (ranger plugin for creating and extracting archives).
 
-* [mufi](https://github.com/maximtrp/mufi): Simple Music Finder for command-line
-* [lastfm-cli-scrobbler](https://github.com/maximtrp/lastfm-cli-scrobbler): Last.fm CLI Scrobbler
-* [ranger-cmus](https://github.com/maximtrp/ranger-cmus): Ranger Plugin for Integration with Cmus Audio Player
-* [ranger-archives](https://github.com/maximtrp/ranger-archives): Ranger Plugin for Creating and Extracting Archives
+**Arduino**: [spectrumLED](https://github.com/maximtrp/spectrumLED) (spectrum analyzer on a LED matrix), [heart-sensor](https://github.com/maximtrp/heart-sensor) (heart rate sensor), [rgb-led-lamp](https://github.com/maximtrp/rgb-led-lamp) (mood lamp based on arduino and WS2812 rgb leds :bulb:).
 
-#### Arduino
-
-* [spectrumLED](https://github.com/maximtrp/spectrumLED): Spectrum Analyzer on a LED Matrix
-* [heart-sensor](https://github.com/maximtrp/heart-sensor): Heart Rate Sensor (reading and processing)
-* [rgb-led-lamp](https://github.com/maximtrp/rgb-led-lamp): Mood Lamp Based on Arduino and WS2812 RGB LEDs :bulb:
-
-#### Web
-
-* [tab](https://github.com/maximtrp/tab): Start Page Generator :bookmark_tabs:
-* [randpaper](https://github.com/maximtrp/randpaper): Random Photo from Pexels :city_sunset:
+**Web**: [tab](https://github.com/maximtrp/tab) (start page generator), [randpaper](https://github.com/maximtrp/randpaper) (random photo from Pexels).
