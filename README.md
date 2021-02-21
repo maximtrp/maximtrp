@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm currently working at Laboratory for Social and Cognitive Informatics ([SCILA](https://scila.hse.ru/en/)), Higher School of Economics (Saint Petersburg, Russia). I enjoy reading books on technology and science, learning new programming languages and frameworks.
+I'm currently working at Laboratory for Social and Cognitive Informatics ([SCILA](https://scila.hse.ru/en/)), Higher School of Economics (Saint Petersburg, Russia). Here is a brief list of my repos:
 
 **Science**: [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) (multiple pairwise comparisons tests), [mchmm](https://github.com/maximtrp/mchmm) (Markov chains and hidden Markov models), [topic-modeling-pipelines](https://github.com/maximtrp/topic-modeling-pipelines) (topic modeling pipelines), [bitermplus](https://github.com/maximtrp/bitermplus) (biterm topic models).
 
