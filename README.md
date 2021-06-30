@@ -2,7 +2,7 @@
 
 I'm currently working at Laboratory for Social and Cognitive Informatics ([SCILA](https://scila.hse.ru/en/)), Higher School of Economics (Saint Petersburg, Russia). Here is a brief list of my repos:
 
-**Science**: [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) (multiple pairwise comparison tests), [scikit-na](https://github.com/maximtrp/scikit-na) (missing data analysis), [mchmm](https://github.com/maximtrp/mchmm) (Markov chains and hidden Markov models), [topic-modeling-pipelines](https://github.com/maximtrp/topic-modeling-pipelines) (topic modeling pipelines), [bitermplus](https://github.com/maximtrp/bitermplus) (biterm topic models).
+**Science**: [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) (multiple pairwise comparison tests), [scikit-na](https://github.com/maximtrp/scikit-na) (missing data analysis), [bitermplus](https://github.com/maximtrp/bitermplus) (biterm topic models), [tmplot](https://github.com/maximtrp/tmplot) (visualization of topic modeling results), [mchmm](https://github.com/maximtrp/mchmm) (Markov chains and hidden Markov models), [topic-modeling-pipelines](https://github.com/maximtrp/topic-modeling-pipelines) (topic modeling pipelines).
 
 **Linux WMs**: [i3blocks-blocklets](https://github.com/maximtrp/i3blocks-blocklets) (useful blocklets for i3blocks), [awesome-wm-widgets](https://github.com/maximtrp/awesome-wm-widgets) (widgets for Awesome WM).
 
