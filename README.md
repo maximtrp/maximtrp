@@ -1,7 +1,5 @@
 ## Hello! 👋
 
-I'm a research fellow at Laboratory for Social and Cognitive Informatics ([SCILA](https://scila.hse.ru/en/)), Higher School of Economics (Saint Petersburg, Russia).
-
 Here is a list of my repos:
 
 ## Science
