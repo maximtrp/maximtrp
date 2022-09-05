@@ -6,6 +6,7 @@ Here is a list of my repos:
 
 | Repository | Description | GitHub |
 | --- | --- | --- |
+| [fixation-correction](https://github.com/maximtrp/fixation-correction) | Fixation Correction plugin for Pupil Labs software ![new](https://img.shields.io/static/v1?label=&message=new!&color=red) | — | 
 | [tmplot](https://github.com/maximtrp/tmplot) | Visualization of topic modeling results ![new](https://img.shields.io/static/v1?label=&message=new!&color=red) | ![Stars](https://img.shields.io/github/stars/maximtrp/tmplot?label=stars%20%E2%98%85) [![Downloads](https://pepy.tech/badge/tmplot)](https://pepy.tech/project/tmplot) |
 | [scikit-na](https://github.com/maximtrp/scikit-na) | Missing data analysis ![new](https://img.shields.io/static/v1?label=&message=new!&color=red) | ![Stars](https://img.shields.io/github/stars/maximtrp/scikit-na?label=stars%20%E2%98%85) [![Downloads](https://pepy.tech/badge/scikit-na)](https://pepy.tech/project/scikit-na) |
 | [bitermplus](https://github.com/maximtrp/bitermplus) | Biterm topic models (for short texts) | ![Stars](https://img.shields.io/github/stars/maximtrp/bitermplus?label=stars%20%E2%98%85) [![Downloads](https://pepy.tech/badge/bitermplus)](https://pepy.tech/project/bitermplus) |
