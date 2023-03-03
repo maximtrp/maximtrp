@@ -4,42 +4,147 @@ Here is a list of my repos:
 
 ## Science
 
-| Repository | Description | GitHub |
-| --- | --- | --- |
-| [fixation-correction](https://github.com/maximtrp/fixation-correction) | Fixation Correction plugin for Pupil Labs software ![new](https://img.shields.io/static/v1?label=&message=new!&color=red) | — | 
-| [tmplot](https://github.com/maximtrp/tmplot) | Visualization of topic modeling results ![new](https://img.shields.io/static/v1?label=&message=new!&color=red) | ![Stars](https://img.shields.io/github/stars/maximtrp/tmplot?label=stars%20%E2%98%85) [![Downloads](https://pepy.tech/badge/tmplot)](https://pepy.tech/project/tmplot) |
-| [scikit-na](https://github.com/maximtrp/scikit-na) | Missing data analysis ![new](https://img.shields.io/static/v1?label=&message=new!&color=red) | ![Stars](https://img.shields.io/github/stars/maximtrp/scikit-na?label=stars%20%E2%98%85) [![Downloads](https://pepy.tech/badge/scikit-na)](https://pepy.tech/project/scikit-na) |
-| [bitermplus](https://github.com/maximtrp/bitermplus) | Biterm topic models (for short texts) | ![Stars](https://img.shields.io/github/stars/maximtrp/bitermplus?label=stars%20%E2%98%85) [![Downloads](https://pepy.tech/badge/bitermplus)](https://pepy.tech/project/bitermplus) |
-| [mchmm](https://github.com/maximtrp/mchmm) | Markov chains and hidden Markov models | ![Stars](https://img.shields.io/github/stars/maximtrp/mchmm?label=stars%20%E2%98%85) [![Downloads](https://pepy.tech/badge/mchmm)](https://pepy.tech/project/mchmm) |
-| [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) | Multiple pairwise comparison tests | ![Stars](https://img.shields.io/github/stars/maximtrp/scikit-posthocs?label=stars%20%E2%98%85) [![Downloads](https://pepy.tech/badge/scikit-posthocs)](https://pepy.tech/project/scikit-posthocs) |
-
-## CLI tools
-
-| Repository | Description | GitHub |
-| --- | --- | --- |
-| [ranger-archives](https://github.com/maximtrp/ranger-archives) | Ranger plugin for creating and extracting archives | ![Stars](https://img.shields.io/github/stars/maximtrp/ranger-archives?label=stars%20%E2%98%85) |
-| [ranger-cmus](https://github.com/maximtrp/ranger-cmus) | Ranger plugin for integration with \*cmus audio player | ![Stars](https://img.shields.io/github/stars/maximtrp/ranger-cmus?label=stars%20%E2%98%85) |
-| [mufi](https://github.com/maximtrp/mufi) | Simple music finder for command-line | ![Stars](https://img.shields.io/github/stars/maximtrp/mufi?label=stars%20%E2%98%85) [![Downloads](https://pepy.tech/badge/mufi)](https://pepy.tech/project/mufi) |
-| [lastfm-cli-scrobbler](https://github.com/maximtrp/lastfm-cli-scrobbler) | Last.fm scrobbler | ![Stars](https://img.shields.io/github/stars/maximtrp/lastfm-cli-scrobbler?label=stars%20%E2%98%85) [![Downloads](https://pepy.tech/badge/lastfm-cli-scrobbler)](https://pepy.tech/project/lastfm-cli-scrobbler) |
-
-## Arduino
-
-| Repository | Description | GitHub |
-| --- | --- | --- |
-| [spectrumLED](https://github.com/maximtrp/spectrumLED) | Spectrum analyzer on a LED matrix | ![Stars](https://img.shields.io/github/stars/maximtrp/spectrumLED?label=stars%20%E2%98%85) |
-| [heart-sensor](https://github.com/maximtrp/heart-sensor) | Heart rate sensor | ![Stars](https://img.shields.io/github/stars/maximtrp/heart-sensor?label=stars%20%E2%98%85)  |
-| [rgb-led-lamp](https://github.com/maximtrp/rgb-led-lamp) | Mood lamp based on arduino and WS2812 RGB leds | ![Stars](https://img.shields.io/github/stars/maximtrp/rgb-led-lamp?label=stars%20%E2%98%85) |
-
-## Linux WMs
-
-| Repository | Description | GitHub |
-| --- | --- | --- |
-| [i3blocks-blocklets](https://github.com/maximtrp/i3blocks-blocklets) | Useful blocklets for *i3blocks* | ![Stars](https://img.shields.io/github/stars/maximtrp/i3blocks-blocklets?label=stars%20%E2%98%85) |
-| [awesome-wm-widgets](https://github.com/maximtrp/awesome-wm-widgets) | Widgets for Awesome WM | ![Stars](https://img.shields.io/github/stars/maximtrp/awesome-wm-widgets?label=stars%20%E2%98%85)  |
-
-## Web
-
-| Repository | Description | GitHub |
-| --- | --- | --- |
-| [tab](https://github.com/maximtrp/tab) | Start page generator | ![Stars](https://img.shields.io/github/stars/maximtrp/tab?label=stars%20%E2%98%85) |
-| [randpaper](https://github.com/maximtrp/randpaper) | Random photo from Pexels | ![Stars](https://img.shields.io/github/stars/maximtrp/randpaper?label=stars%20%E2%98%85)  |
+<table>
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Description</th>
+            <th>GitHub</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="3" align="center"><b>Science</b></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/fixation-correction">fixation-correction</a></td>
+            <td>Fixation Correction plugin for Pupil Labs software</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/fixation-correction?label=stars%20%E2%98%85"/>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/tmplot">tmplot</a></td>
+            <td>Visualization of topic modeling results</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/tmplot?label=stars%20%E2%98%85"/>
+                <a href="https://pepy.tech/project/tmplot"><img src="https://pepy.tech/badge/tmplot" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/bitermplus">bitermplus</a></td>
+            <td>Biterm topic models (for short texts)</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/bitermplus?label=stars%20%E2%98%85"/>
+                <a href="https://pepy.tech/project/bitermplus"><img src="https://pepy.tech/badge/bitermplus" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/mchmm">mchmm</a></td>
+            <td>Markov chains and hidden Markov models</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/bitermplus?label=stars%20%E2%98%85"/>
+                <a href="https://pepy.tech/project/bitermplus"><img src="https://pepy.tech/badge/bitermplus" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/scikit-posthocs">scikit-posthocs</a></td>
+            <td>Multiple pairwise comparison tests</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/scikit-posthocs?label=stars%20%E2%98%85"/>
+                <a href="https://pepy.tech/project/scikit-posthocs"><img src="https://pepy.tech/badge/scikit-posthocs" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" align="center"><b>CLI tools</b></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/ranger-archives">ranger-archives</a></td>
+            <td>Ranger plugin for creating and extracting archives</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/ranger-archives?label=stars%20%E2%98%85"/>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/ranger-cmus">ranger-cmus</a></td>
+            <td>Ranger plugin for integration with \*cmus audio player</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/ranger-cmus?label=stars%20%E2%98%85"/>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/mufi">mufi</a></td>
+            <td>Simple music finder for command-line</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/mufi?label=stars%20%E2%98%85"/>
+                <a href="https://pepy.tech/project/mufi"><img src="https://pepy.tech/badge/mufi" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/lastfm-cli-scrobbler">lastfm-cli-scrobbler</a></td>
+            <td>Last.fm CLI scrobbler</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/lastfm-cli-scrobbler?label=stars%20%E2%98%85"/>
+                <a href="https://pepy.tech/project/lastfm-cli-scrobbler"><img src="https://pepy.tech/badge/lastfm-cli-scrobbler" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" align="center"><b>Arduino</b></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/spectrumLED">spectrumLED</a></td>
+            <td>Spectrum analyzer on a LED matrix</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/spectrumLED?label=stars%20%E2%98%85"/>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/heart-sensor">heart-sensor</a></td>
+            <td>Heart rate sensor</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/heart-sensor?label=stars%20%E2%98%85"/>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/lastfm-cli-scrobbler">lastfm-cli-scrobbler</a></td>
+            <td>Mood lamp based on arduino and WS2812 RGB leds</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/lastfm-cli-scrobbler?label=stars%20%E2%98%85"/>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" align="center"><b>Linux WMs</b></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/i3blocks-blocklets">i3blocks-blocklets</a></td>
+            <td>Useful blocklets for *i3blocks*</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/i3blocks-blocklets?label=stars%20%E2%98%85"/>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/awesome-wm-widgets">awesome-wm-widgets</a></td>
+            <td>Widgets for Awesome WM</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/awesome-wm-widgets?label=stars%20%E2%98%85"/>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" align="center"><b>Web</b></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/tab">tab</a></td>
+            <td>Start page generator</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/tab?label=stars%20%E2%98%85"/>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/randpaper">randpaper</a></td>
+            <td>Random photo from Pexels</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/randpaper?label=stars%20%E2%98%85"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
