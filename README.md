@@ -2,8 +2,6 @@
 
 Here is a list of my repos:
 
-## Science
-
 <table>
     <thead>
         <tr>
