@@ -41,8 +41,8 @@ Here is a list of my repos:
             <td><a href="https://github.com/maximtrp/mchmm">mchmm</a></td>
             <td>Markov chains and hidden Markov models</td>
             <td>
-                <img src="https://img.shields.io/github/stars/maximtrp/bitermplus?label=stars%20%E2%98%85"/>
-                <a href="https://pepy.tech/project/bitermplus"><img src="https://pepy.tech/badge/bitermplus" /></a>
+                <img src="https://img.shields.io/github/stars/maximtrp/mchmm?label=stars%20%E2%98%85"/>
+                <a href="https://pepy.tech/project/mchmm"><img src="https://pepy.tech/badge/mchmm" /></a>
             </td>
         </tr>
         <tr>
