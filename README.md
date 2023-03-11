@@ -30,6 +30,14 @@ Here is a list of my repos:
             </td>
         </tr>
         <tr>
+            <td><a href="https://github.com/maximtrp/scikit-na">scikit-na</a></td>
+            <td>Missing data analysis</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/scikit-na?label=stars%20%E2%98%85"/>
+                <a href="https://pepy.tech/project/scikit-na"><img src="https://pepy.tech/badge/scikit-na" /></a>
+            </td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/maximtrp/bitermplus">bitermplus</a></td>
             <td>Biterm topic models (for short texts)</td>
             <td>
