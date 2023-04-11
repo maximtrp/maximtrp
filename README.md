@@ -139,17 +139,33 @@ Here is a list of my repos:
             <td colspan="3" align="center"><b>Web</b></td>
         </tr>
         <tr>
+            <td><a href="https://github.com/maximtrp/youtrack-vscode-extension">youtrack-vscode-extension</a></td>
+            <td>YouTrack Extension for Visual Studio Code</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/youtrack-vscode-extension?label=stars%20%E2%98%85" />
+                <img src="https://img.shields.io/visual-studio-marketplace/d/maximtrp.youtrack-ext?label=downloads:+VSM" />
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/maximtrp/droneci-vscode-extension">droneci-vscode-extension</a></td>
+            <td>Drone CI Extension for Visual Studio Code</td>
+            <td>
+                <img src="https://img.shields.io/github/stars/maximtrp/droneci-vscode-extension?label=stars%20%E2%98%85" />
+                <img src="https://img.shields.io/visual-studio-marketplace/d/maximtrp.drone-ci?label=downloads:+VSM" />
+            </td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/maximtrp/tab">tab</a></td>
             <td>Start page generator</td>
             <td>
-                <img src="https://img.shields.io/github/stars/maximtrp/tab?label=stars%20%E2%98%85"/>
+                <img src="https://img.shields.io/github/stars/maximtrp/tab?label=stars%20%E2%98%85" />
             </td>
         </tr>
         <tr>
             <td><a href="https://github.com/maximtrp/randpaper">randpaper</a></td>
             <td>Random photo from Pexels</td>
             <td>
-                <img src="https://img.shields.io/github/stars/maximtrp/randpaper?label=stars%20%E2%98%85"/>
+                <img src="https://img.shields.io/github/stars/maximtrp/randpaper?label=stars%20%E2%98%85" />
             </td>
         </tr>
     </tbody>
