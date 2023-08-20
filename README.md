@@ -26,7 +26,7 @@ Here is a list of my repos:
             <td>Visualization of topic modeling results</td>
             <td>
                 <img src="https://img.shields.io/github/stars/maximtrp/tmplot?label=stars%20%E2%98%85"/>
-                <a href="https://pepy.tech/project/tmplot"><img src="https://pepy.tech/badge/tmplot" /></a>
+                <a href="https://pepy.tech/project/tmplot"><img src="https://static.pepy.tech/badge/tmplot" /></a>
             </td>
         </tr>
         <tr>
@@ -34,7 +34,7 @@ Here is a list of my repos:
             <td>Missing data analysis</td>
             <td>
                 <img src="https://img.shields.io/github/stars/maximtrp/scikit-na?label=stars%20%E2%98%85"/>
-                <a href="https://pepy.tech/project/scikit-na"><img src="https://pepy.tech/badge/scikit-na" /></a>
+                <a href="https://pepy.tech/project/scikit-na"><img src="https://static.pepy.tech/badge/scikit-na" /></a>
             </td>
         </tr>
         <tr>
@@ -42,7 +42,7 @@ Here is a list of my repos:
             <td>Biterm topic models (for short texts)</td>
             <td>
                 <img src="https://img.shields.io/github/stars/maximtrp/bitermplus?label=stars%20%E2%98%85"/>
-                <a href="https://pepy.tech/project/bitermplus"><img src="https://pepy.tech/badge/bitermplus" /></a>
+                <a href="https://pepy.tech/project/bitermplus"><img src="https://static.pepy.tech/badge/bitermplus" /></a>
             </td>
         </tr>
         <tr>
@@ -50,7 +50,7 @@ Here is a list of my repos:
             <td>Markov chains and hidden Markov models</td>
             <td>
                 <img src="https://img.shields.io/github/stars/maximtrp/mchmm?label=stars%20%E2%98%85"/>
-                <a href="https://pepy.tech/project/mchmm"><img src="https://pepy.tech/badge/mchmm" /></a>
+                <a href="https://pepy.tech/project/mchmm"><img src="https://static.pepy.tech/badge/mchmm" /></a>
             </td>
         </tr>
         <tr>
@@ -58,7 +58,7 @@ Here is a list of my repos:
             <td>Multiple pairwise comparison tests</td>
             <td>
                 <img src="https://img.shields.io/github/stars/maximtrp/scikit-posthocs?label=stars%20%E2%98%85"/>
-                <a href="https://pepy.tech/project/scikit-posthocs"><img src="https://pepy.tech/badge/scikit-posthocs" /></a>
+                <a href="https://pepy.tech/project/scikit-posthocs"><img src="https://static.pepy.tech/badge/scikit-posthocs" /></a>
             </td>
         </tr>
         <tr>
@@ -73,7 +73,7 @@ Here is a list of my repos:
         </tr>
         <tr>
             <td><a href="https://github.com/maximtrp/ranger-cmus">ranger-cmus</a></td>
-            <td>Ranger plugin for integration with \*cmus audio player</td>
+            <td>Ranger plugin for integration with *cmus audio player</td>
             <td>
                 <img src="https://img.shields.io/github/stars/maximtrp/ranger-cmus?label=stars%20%E2%98%85"/>
             </td>
@@ -83,7 +83,7 @@ Here is a list of my repos:
             <td>Simple music finder for command-line</td>
             <td>
                 <img src="https://img.shields.io/github/stars/maximtrp/mufi?label=stars%20%E2%98%85"/>
-                <a href="https://pepy.tech/project/mufi"><img src="https://pepy.tech/badge/mufi" /></a>
+                <a href="https://pepy.tech/project/mufi"><img src="https://static.pepy.tech/badge/mufi" /></a>
             </td>
         </tr>
         <tr>
@@ -91,7 +91,7 @@ Here is a list of my repos:
             <td>Last.fm CLI scrobbler</td>
             <td>
                 <img src="https://img.shields.io/github/stars/maximtrp/lastfm-cli-scrobbler?label=stars%20%E2%98%85"/>
-                <a href="https://pepy.tech/project/lastfm-cli-scrobbler"><img src="https://pepy.tech/badge/lastfm-cli-scrobbler" /></a>
+                <a href="https://pepy.tech/project/lastfm-cli-scrobbler"><img src="https://static.pepy.tech/badge/lastfm-cli-scrobbler" /></a>
             </td>
         </tr>
         <tr>
