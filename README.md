@@ -1,6 +1,11 @@
-## Hello! 👋
+Hey! 👋 I'm a web and mobile software developer with a strong scientific background in data science, having worked in biological and sociological research labs. My expertise lies at the intersection of software development and data analysis, allowing me to build intelligent, scalable applications. I maintain open-source projects, many of which started as practical tools for my previous roles. 
 
-Here is a list of my repos:
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=maximtrp&hide_title=true)
+![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maximtrp&layout=compact&hide=jupyter%20notebook&hide_title=true)
+
+---
+
+## Projects
 
 <table>
     <thead>
@@ -69,7 +74,7 @@ Here is a list of my repos:
             <td>YouTrack Extension for Visual Studio Code</td>
             <td>
                 <img src="https://img.shields.io/github/stars/maximtrp/youtrack-vscode-extension?label=stars%20%E2%98%85&amp;style=flat" />
-                <img src="https://img.shields.io/visual-studio-marketplace/d/maximtrp.youtrack-ext?label=downloads:+VSM" />
+                <!--<img src="https://img.shields.io/visual-studio-marketplace/d/maximtrp.youtrack-ext?label=downloads:+VSM" />-->
             </td>
         </tr>
         <tr>
@@ -77,7 +82,7 @@ Here is a list of my repos:
             <td>Drone CI Extension for Visual Studio Code</td>
             <td>
                 <img src="https://img.shields.io/github/stars/maximtrp/droneci-vscode-extension?label=stars%20%E2%98%85&amp;style=flat" />
-                <img src="https://img.shields.io/visual-studio-marketplace/d/maximtrp.drone-ci?label=downloads:+VSM" />
+                <!--<img src="https://img.shields.io/visual-studio-marketplace/d/maximtrp.drone-ci?label=downloads:+VSM" />-->
             </td>
         </tr>
         <tr>
